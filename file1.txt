@@ -1,3 +1,0 @@
-i am content of file1
-new line2
-new line3
